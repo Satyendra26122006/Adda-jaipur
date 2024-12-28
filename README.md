@@ -38,7 +38,7 @@ To set up Adda Jaipur locally on your machine, follow these steps:
 
 ## Usage
 
-After setting up the project locally, you can access the website at `` and explore the various features. You can browse products, add them to your cart, and proceed to checkout.
+After setting up the project locally, you can access the website at `https://satyendra26122006.github.io/Adda-jaipur/` and explore the various features. You can browse products, add them to your cart, and proceed to checkout.
 
 ## Contributing
 
