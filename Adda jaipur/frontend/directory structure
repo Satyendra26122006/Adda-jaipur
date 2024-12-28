@@ -1,0 +1,15 @@
+/frontend
+  /src
+    /components
+      Home.js
+      ProductList.js
+      ProductDetails.js
+      Cart.js
+      Checkout.js
+      Review.js
+      Header.js
+      Footer.js
+      CheckoutForm.js
+    App.js
+    index.js
+    

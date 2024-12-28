@@ -1,0 +1,11 @@
+/backend
+  /models
+    Product.js
+    User.js
+    Order.js
+  /routes
+    products.js
+    users.js
+    orders.js
+  server.js
+  .env

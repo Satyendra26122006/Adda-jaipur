@@ -1,0 +1,6 @@
+mkdir adda-jaipur
+cd adda-jaipur
+mkdir backend
+cd backend
+npm init -y
+npm install express mongoose dotenv cors
