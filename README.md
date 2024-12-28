@@ -2,15 +2,6 @@
 
 Welcome to Adda Jaipur, your one-stop online marketplace for all things Jaipur. From traditional handicrafts to modern fashion, we bring the vibrant culture of Jaipur right to your doorstep.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Project Overview
 
@@ -47,7 +38,7 @@ To set up Adda Jaipur locally on your machine, follow these steps:
 
 ## Usage
 
-After setting up the project locally, you can access the website at `http://localhost:3000` and explore the various features. You can browse products, add them to your cart, and proceed to checkout.
+After setting up the project locally, you can access the website at `` and explore the various features. You can browse products, add them to your cart, and proceed to checkout.
 
 ## Contributing
 
